@@ -1,0 +1,3 @@
+[submodule "Projets/Gestion-Cagnotte-Commune-Securisee/gestion-cagnotte-commune-securisee"]
+	path = Projets/Gestion-Cagnotte-Commune-Securisee/gestion-cagnotte-commune-securisee
+	url = git@code.up8.edu:xtokoproust/gestion-cagnotte-commune-securisee.git
