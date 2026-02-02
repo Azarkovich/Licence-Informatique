@@ -1,0 +1,5 @@
+fun main() : int {
+  let x : int = read_int();
+  print_int(x);
+  return 0;
+}

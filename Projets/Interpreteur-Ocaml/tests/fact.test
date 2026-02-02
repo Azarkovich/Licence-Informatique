@@ -1,0 +1,9 @@
+fun main() : int {
+  let n : int = 5;
+  let r : int = 1;
+  while (n > 0) {
+    r = r * n;
+    n = n - 1;
+  }
+  return r;
+}

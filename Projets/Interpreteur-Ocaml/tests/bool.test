@@ -1,0 +1,4 @@
+fun main() : int {
+  print_bool(true && !false);
+  return 0;
+}

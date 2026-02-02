@@ -1,0 +1,8 @@
+fun f(a:int, b:int) : int {
+  if (a < b) { return 1; }
+  else { return 0; }
+}
+
+fun main() : int {
+  return f(2,3);
+}
